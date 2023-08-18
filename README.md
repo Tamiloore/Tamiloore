@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Oluwatobi Onadipe</h1>
 <h3 align="center">DeveOps</h3>
-<img align="right"alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:720/1*DluPjzT_eTUFdzHCI7JBZA.gif" />
+<img align="right"alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamiloore&label=Profile%20views&color=0e75b6&style=flat" alt="tamiloore" /> </p>
 
