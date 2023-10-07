@@ -37,3 +37,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamiloore&" alt="tamiloore" /></p>
+[![An image of @tamiloore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tamiloore)](https://holopin.io/@tamiloore)
