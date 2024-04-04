@@ -1,9 +1,18 @@
 
 <h1 align="left">Hi 👋, I'm Oluwatobi Onadipe</h1>
-<h3 align="left">cloud DevOps Engineer</h3>
-<img align="left"alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<h3 align="left">Cloud DevOps Engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamiloore&label=Profile%20views&color=0e75b6&style=flat" alt="tamiloore" /> </p>
+
+
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://twitter.com/ooluwatobi_o" target="blank"><img src="https://img.shields.io/twitter/follow/ooluwatobi_o?logo=twitter&style=for-the-badge" alt="ooluwatobi_o" /></a> </p>
 <h3 align="left">Connect with me:</h3>
